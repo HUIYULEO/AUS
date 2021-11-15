@@ -1,6 +1,4 @@
-//
-// Created by Anton Kaae Kirk on 16/09/2021.
-//
+
 #include "messages.h"
 #include <stdio.h>
 #include <stdlib.h>
